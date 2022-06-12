@@ -1,4 +1,4 @@
-# 💫about Me :
+# 💫about me :
 i'm a developer  
 i like to code in python, c++, c#, php  
 currently working on float ghost client  
